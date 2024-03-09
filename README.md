@@ -59,5 +59,5 @@
         src="https://github-readme-stats.vercel.app/api?username=iibrahimkoc&show_icons=true&locale=en"
         alt="iibrahimkoc" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahimkoc&" alt="iibrahimkoc" />
+<p><img align="center" witdh="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahimkoc&" alt="iibrahimkoc" />
 </p>
