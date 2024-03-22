@@ -50,13 +50,3 @@
             src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
 </p>
 
-<p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=iibrahimkoc&show_icons=true&locale=en&layout=compact"
-        alt="iibrahimkoc" /></p>
-
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=iibrahimkoc&show_icons=true&locale=en"
-        alt="iibrahimkoc" /></p>
-
-<p><img align="center" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=iibrahimkoc&" alt="iibrahimkoc" />
-</p>
