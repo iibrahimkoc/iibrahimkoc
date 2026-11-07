@@ -37,9 +37,6 @@ I'm a computer engineer who likes building things end to end — from **native i
 | Project | What it is | Stack |
 | --- | --- | --- |
 | [**iPhone → iPod Classic**](https://github.com/iibrahimkoc/iphone-ipod-classic) | SwiftUI click-wheel music player + SpringBoard tweak that turns an iPhone 6s into an iPod Classic | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) |
-| [**SiBO**](https://github.com/iibrahimkoc/sibo) · [live](https://sibo-indol.vercel.app) | Chrome extension that suggests outfits from e-commerce product pages | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
-| [**Zikirmatik**](https://github.com/iibrahimkoc/zikirmatik) | Minimal digital tasbih counter | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
-| [**LeetCode 90**](https://github.com/iibrahimkoc/LeetCode-90-solutions) | 90 algorithm problems, solved and explained | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
 
 ### 🐍 Contributions
 
