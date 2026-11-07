@@ -1,52 +1,52 @@
-<h1 align="center">Hi 👋, I'm İbrahim Koç</h1>
-<h3 align="center">I am a computer engineering student. I am working in react native. And I am trying to design a
-    website.</h3>
+<!-- Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:0f2027,50:203a43,100:2c5364&text=%C4%B0brahim%20Ko%C3%A7&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Computer%20Engineer%20%C2%B7%20iOS%20%26%20Full-Stack&descAlignY=58&descSize=16&animation=fadeIn" width="100%" alt="İbrahim Koç" />
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-    <a href="https://linkedin.com/in/iibrahimkoc" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-            alt="iibrahimkoc" height="30" width="40" /></a>
-    <a href="https://instagram.com/ibrahimkoc.ik" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-            alt="ibrahimkoc.ik" height="30" width="40" /></a>
-    <a href="https://www.behance.net/iibrahimkoc" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-            alt="iibrahimkoc" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/iibrahimkoc">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+native+iOS+apps+with+SwiftUI;Shipping+full-stack+web+products;Turning+old+iPhones+into+iPods+%F0%9F%8E%B5" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40"
-            height="40" /> </a> <br> 
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40" /> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-            alt="css3" width="40" height="40" /> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40" /> </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-            <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-            alt="react" width="40" height="40" /> </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40" /> </a>
-    <br>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg"
-            alt="oracle" width="40" height="40" /> </a>
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-            alt="mysql" width="40" height="40" /> </a>
-    <br>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40" /> </a>
-    <br>
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img
-            src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40" /> </a>
+<p align="center">
+  <a href="https://linkedin.com/in/iibrahimkoc"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.behance.net/iibrahimkoc"><img src="https://img.shields.io/badge/Behance-1769FF?style=flat-square&logo=behance&logoColor=white" alt="Behance" /></a>
+  <a href="https://instagram.com/ibrahimkoc.ik"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=iibrahimkoc&style=flat-square&color=58a6ff&label=profile+views" alt="Profile views" />
 </p>
 
+---
+
+### 👋 About
+
+I'm a computer engineer who likes building things end to end — from **native iOS apps in Swift/SwiftUI** to **full-stack web products** with React, Node.js and PHP. I care about clean interfaces, so design (Figma) is part of my workflow, not an afterthought.
+
+- 🍎 Currently focused on **Swift & SwiftUI**
+- 🧩 Shipping client work: websites, admin panels and the backends behind them
+- 🎵 Side quest: turning a jailbroken iPhone 6s into an **iPod Classic**
+
+### 🛠 Tech Stack
+
+<p>
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=swift,apple,react,ts,js,nodejs,php,mysql&theme=dark&perline=8" alt="Languages & frameworks" /></a>
+  <br />
+  <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=html,css,tailwind,figma,git,vercel&theme=dark&perline=8" alt="Tools" /></a>
+</p>
+
+### 🚀 Featured Projects
+
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [**iPhone → iPod Classic**](https://github.com/iibrahimkoc/iphone-ipod-classic) | SwiftUI click-wheel music player + SpringBoard tweak that turns an iPhone 6s into an iPod Classic | ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=white) |
+| [**SiBO**](https://github.com/iibrahimkoc/sibo) · [live](https://sibo-indol.vercel.app) | Chrome extension that suggests outfits from e-commerce product pages | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![TS](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| [**Zikirmatik**](https://github.com/iibrahimkoc/zikirmatik) | Minimal digital tasbih counter | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+| [**LeetCode 90**](https://github.com/iibrahimkoc/LeetCode-90-solutions) | 90 algorithm problems, solved and explained | ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) |
+
+### 🐍 Contributions
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iibrahimkoc/iibrahimkoc/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/iibrahimkoc/iibrahimkoc/output/github-snake.svg" />
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/iibrahimkoc/iibrahimkoc/output/github-snake.svg" width="100%" />
+</picture>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:2c5364,50:203a43,100:0f2027&section=footer" width="100%" alt="" />
